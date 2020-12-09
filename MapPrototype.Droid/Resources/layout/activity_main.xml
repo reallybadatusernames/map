@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/threeWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch 3 Point Map"/>
+    <Button
+        android:id="@+id/fourWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch 4 Point Map"/>
+    <Button
+        android:id="@+id/fiveWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch 5 Point Map"/>
+    <Button
+        android:id="@+id/sevenWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch 7 Point Map"/>
+    <Button
+        android:id="@+id/tenWay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch 10 Point Map"/>
+    <Button
+        android:id="@+id/widgetTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Widget Test"/>
+</LinearLayout>
