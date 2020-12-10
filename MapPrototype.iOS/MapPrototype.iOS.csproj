@@ -3,7 +3,7 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
-        <ProjectGuid>{0682D4E7-9B0B-44EA-8E6E-0A22B80F2CAF}</ProjectGuid>
+        <ProjectGuid>{7207B0B1-5E4D-4D9E-B79B-47B93D375A26}</ProjectGuid>
         <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
         <TemplateGuid>{edc1b0fa-90cd-4038-8fad-98fe74adb368}</TemplateGuid>
         <OutputType>Exe</OutputType>
@@ -116,6 +116,7 @@
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Resources\" />
+        <Folder Include="Controls\" />
     </ItemGroup>
     <ItemGroup>
         <InterfaceDefinition Include="LaunchScreen.storyboard" />

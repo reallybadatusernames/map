@@ -11,7 +11,7 @@ using UIKit;
 
 namespace MapPrototype.iOS
 {
-    [Register ("ViewController")]
+    [Register("ViewController")]
     partial class ViewController
     {
     }

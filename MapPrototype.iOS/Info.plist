@@ -5,7 +5,7 @@
     <key>CFBundleDisplayName</key>
     <string>MapPrototype.iOS</string>
     <key>CFBundleIdentifier</key>
-    <string>com.companyname.MapPrototype.iOS</string>
+    <string>com.companyname.MapPrototype-iOS</string>
     <key>CFBundleShortVersionString</key>
     <string>1.0</string>
     <key>CFBundleVersion</key>
@@ -32,7 +32,7 @@
         </dict>
     </dict>
     <key>MinimumOSVersion</key>
-        <string>11.2</string>
+        <string>11.0</string>
     <key>UIDeviceFamily</key>
     <array>
         <integer>1</integer>

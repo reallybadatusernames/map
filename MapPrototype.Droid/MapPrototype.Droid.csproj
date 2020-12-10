@@ -19,7 +19,6 @@
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <AndroidErrorOnCustomJavaObject>false</AndroidErrorOnCustomJavaObject>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
