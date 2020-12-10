@@ -29,6 +29,7 @@ namespace MapPrototype.Droid
                             new WayPoint { Id = 3, Title = "Three", XPos = 49.97981317, YPos = 1.825529196, Color = Color.Black },
                             new WayPoint { Id = 2,  Title = "Two", XPos = 51.23278898, YPos = 48.29354509, Color = Color.Black },
                             new WayPoint { Id = 1,  Title = "One", XPos = 35.77942057, YPos = 97.91474779, Color = Color.Black },
+
                         };
                     case 4:
                         return new List<WayPoint>
